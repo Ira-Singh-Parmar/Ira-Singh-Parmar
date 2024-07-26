@@ -12,5 +12,5 @@ Welcome to my GitHub profile! I’m Ira Singh Parmar, a passionate developer and
 
 🧩 Fun Fact
 
-I love blending my coding skills with creative 3D animations to bring imaginative ideas to life!
-Happy coding and animating! 🎉
+Blending coding with 3D animation lets me turn creative ideas into reality. 
+Looking forward to more exciting projects ahead! 🎨🚀
