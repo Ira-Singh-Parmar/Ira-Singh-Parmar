@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I’m Ira Singh Parmar, a passionate developer and
 
 🔧 Skills & Technologies
   - Languages: HTML, CSS, JavaScript, C, Python
-  - Tools: Git, VS Code
+  - Tools: VS Code
   - 3D Animation: Blender
 
 📚 Ongoing Learning
