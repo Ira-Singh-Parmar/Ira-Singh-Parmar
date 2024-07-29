@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I’m Ira Singh Parmar, a passionate developer and
   - Tools: VS Code
   
 📚 Ongoing Learning
+  
   I’m currently working on:
   - Advanced Python techniques through my Harvard course
   - 3D animation and modeling to enhance my creative skills
