@@ -40,10 +40,10 @@ I’ve completed **Harvard’s CS50 Computer Science** and **CS50 Python** cours
 
 ---
 
-## 📊 **GitHub Stats**
-![Ira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
+## 🐍 **My Contribution Snake**
+![snake gif](https://github.com/Ira-Singh-Parmar/Ira-Singh-Parmar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 👀 **Profile Views**
-![Profile views](https://komarev.com/ghpvc/?username=YourUserName&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Ira-Singh-Parmar&style=for-the-badge)
