@@ -1,18 +1,49 @@
-# Hello World! 🌟
+# 🌟 Hi, I'm **Ira Singh Parmar**
 
-Welcome to my GitHub profile! I’m Ira Singh Parmar, a passionate developer exploring the world of Computer Science, AI/ML, and creative coding.
-I’ve completed Harvard University's CS50 Computer Science and CS50 Python courses, giving me a strong foundation in programming and problem-solving and have a strong foundation in HTML, CSS, JavaScript, and C languages. I also have a keen interest in creating 3D animations.
+### CS50x • CS50 Python • AI/ML • Developer • Creator  
 
-🔧 **Skills & Technologies**
+---
 
-- **Languages**: HTML, CSS, JavaScript, C, Python
-- **Tools**: VS Code
+## 🔖 **Badges**
 
-📚 **Ongoing Learning**
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-- Advanced Python techniques to further enhance my skills
-- 3D animation and modeling to boost my creative projects
+### **AI & ML**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?logo=ai&logoColor=white)
 
-🧩 **Fun Fact**
+### **Tools**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-Blending coding with 3D animation lets me turn creative ideas into reality. Looking forward to more exciting projects ahead! 🎨🚀
+### **Certificates**
+![CS50x](https://img.shields.io/badge/Harvard-CS50x%20Computer%20Science-FF0000?logo=harvard&logoColor=white)
+![CS50P](https://img.shields.io/badge/Harvard-CS50%20Python-0055A4?logo=python&logoColor=white)
+
+---
+
+## 👩‍💻 **About Me**
+I’m a passionate developer exploring **Computer Science, AI/ML, Web Development, and 3D Animation**.  
+I’ve completed **Harvard’s CS50 Computer Science** and **CS50 Python** courses, and I love blending **logic with creativity** through coding and design.
+
+---
+
+## 📚 **Currently Learning**
+- Advanced Python  
+- Artificial Intelligence & Machine Learning  
+- 3D Animation & Modeling  
+
+---
+
+## 📊 **GitHub Stats**
+![Ira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
+
+---
+
+## 👀 **Profile Views**
+![Profile views](https://komarev.com/ghpvc/?username=YourUserName&style=for-the-badge)
