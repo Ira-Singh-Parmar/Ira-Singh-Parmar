@@ -7,6 +7,15 @@
 
 <p align="center">
 
+## 👩‍💻 About Me
+I'm a passionate developer exploring **Computer Science, AI/ML, Web Development, and 3D Animation**.  
+I’ve completed **Harvard’s CS50 Computer Science** and **CS50 Python** courses.  
+I love blending **logic with creativity** through code and design.
+
+---
+
+<p align="center">
+
 ### 🔖 **Technologies & Skills**
 
 **Languages:**  
@@ -36,7 +45,7 @@
 <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV"/></a>
 
 **NLP & AI Libraries:**  
-<a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FE8C00?logo=huggingface&logoColor=white&style=for-the-badge" alt="HuggingFace"/></a>
+<a href="https://huggingface.co/irasingh/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FE8C00?logo=huggingface&logoColor=white&style=for-the-badge" alt="HuggingFace"/></a>
 <a href="https://www.nltk.org/" target="_blank"><img src="https://img.shields.io/badge/NTLK-2C3E50?logo=python&logoColor=white&style=for-the-badge" alt="NLTK"/></a>
 <a href="https://llamaindex.ai/" target="_blank"><img src="https://img.shields.io/badge/LlamaIndex-FF9900?logo=python&logoColor=white&style=for-the-badge" alt="LlamaIndex"/></a>
 <a href="https://gensim.org/" target="_blank"><img src="https://img.shields.io/badge/Gensim-116611?logo=python&logoColor=white&style=for-the-badge" alt="Gensim"/></a>
@@ -52,15 +61,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Harvard-CS50%20Python-0055A4?logo=python&logoColor=white&style=for-the-badge" alt="CS50 Python"/></a>
 
 </p>
-
----
-
-<p align="center">
-
-## 👩‍💻 About Me
-I'm a passionate developer exploring **Computer Science, AI/ML, Web Development, and 3D Animation**.  
-I’ve completed **Harvard’s CS50 Computer Science** and **CS50 Python** courses.  
-I love blending **logic with creativity** through code and design.
 
 ---
 
