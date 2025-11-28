@@ -67,7 +67,7 @@ I love blending **logic with creativity** through code and design.
 ## 📚 Currently Learning
 - Advanced Python  
 - Artificial Intelligence & Machine Learning  
-- 3D Animation & Modeling
+- 3D Animation & Coding
 
 ---
 
