@@ -49,7 +49,7 @@ I love blending **logic with creativity** through code and design.
 <a href="https://www.nltk.org/" target="_blank"><img src="https://img.shields.io/badge/NTLK-2C3E50?logo=python&logoColor=white&style=for-the-badge" alt="NLTK"/></a>
 <a href="https://llamaindex.ai/" target="_blank"><img src="https://img.shields.io/badge/LlamaIndex-FF9900?logo=python&logoColor=white&style=for-the-badge" alt="LlamaIndex"/></a>
 <a href="https://gensim.org/" target="_blank"><img src="https://img.shields.io/badge/Gensim-116611?logo=python&logoColor=white&style=for-the-badge" alt="Gensim"/></a>
-<a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-000000?logo=python&logoColor=white&style=for-the-badge" alt="Ollama"/></a>
+<a href="https://ollama.com/Ira_Singh_Parmar/" target="_blank"><img src="https://img.shields.io/badge/Ollama-000000?logo=python&logoColor=white&style=for-the-badge" alt="Ollama"/></a>
 <a href="https://huggingface.co/transformers/" target="_blank"><img src="https://img.shields.io/badge/LLaMA-FF9900?logo=python&logoColor=white&style=for-the-badge" alt="LLaMA"/></a>
 
 **Tools & IDEs:**  
