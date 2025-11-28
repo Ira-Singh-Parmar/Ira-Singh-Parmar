@@ -43,6 +43,7 @@ I’ve completed **Harvard’s CS50 Computer Science** and **CS50 Python** cours
 ## 🐍 **My Contribution Snake**
 ![snake gif](https://github.com/Ira-Singh-Parmar/Ira-Singh-Parmar/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ## 👀 **Profile Views**
