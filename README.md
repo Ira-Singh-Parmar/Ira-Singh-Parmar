@@ -1,6 +1,7 @@
 # Hello World! 🌟
 
-Welcome to my GitHub profile! I’m Ira Singh Parmar, a passionate developer and lifelong learner. I have completed a certificate in Python from Harvard University (CS50) and have a strong foundation in HTML, CSS, JavaScript, and C languages. I also have a keen interest in creating 3D animations.
+Welcome to my GitHub profile! I’m Ira Singh Parmar, a passionate developer exploring the world of Computer Science, AI/ML, and creative coding.
+I’ve completed Harvard University's CS50 Computer Science and CS50 Python courses, giving me a strong foundation in programming and problem-solving and have a strong foundation in HTML, CSS, JavaScript, and C languages. I also have a keen interest in creating 3D animations.
 
 🔧 **Skills & Technologies**
 
