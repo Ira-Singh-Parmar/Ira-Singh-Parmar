@@ -8,7 +8,7 @@
 <p align="center">
 
 ## 👩‍💻 About Me
-I'm a passionate developer exploring **Computer Science, AI/ML, Web Development and 3D Animation**.  
+I'm an innovative developer exploring **Computer Science, AI/ML, Web Development and 3D Animation**.  
 I’ve completed **Harvard’s CS50 Computer Science** and **CS50 Python** courses.  
 I love blending **logic with creativity** through code and design.
 
