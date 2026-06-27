@@ -64,6 +64,10 @@ I love blending **logic with creativity** through code and design.
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ira-Singh-Parmar&theme=dark&hide_border=true&background=45%2C34243E%2C000000)](https://git.io/streak-stats)
+
+---
+
 ## 📚 Currently Learning
 - Advanced Python  
 - Artificial Intelligence & Machine Learning  
