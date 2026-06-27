@@ -68,9 +68,6 @@ I love blending **logic with creativity** through code and design.
 
 ---
 
-[![Ira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ira-Singh-Parmar)](https://github.com/Ira-Singh-Parmar/github-readme-stats)
-
----
 
 ## 📚 Currently Learning
 - Advanced Python  
